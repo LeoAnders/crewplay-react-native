@@ -2,21 +2,12 @@
 
 CrewPlay is a mobile app built with React Native that helps organize groups of friends or coworkers who meet up to play games together. Whether it's weekend matches, casual weekday games, or regular team meetups.
 
----
+<div align="center">
+   <img width="781" alt="image" src="https://github.com/user-attachments/assets/3b70564c-b93d-4ef9-b918-030ea0a4232b" />
+</div>
 
-## Built With
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/) (optional depending on setup)
-- [TypeScript](https://www.typescriptlang.org/) (recommended)
 
----
-
-## Get started
-
-### Prerequisites
-- Node.js
-- Yarn or npm
-- Expo CLI (if using Expo)
+### Get started
 
 1. Install dependencies
 
