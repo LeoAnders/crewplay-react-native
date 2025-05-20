@@ -5,7 +5,7 @@ import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 
 import theme from './src/theme';
 
-import { Players } from '@screens/Players';
+import { Routes } from './src/routes';
 import { Loading } from '@components/Loading';
 
 export default function App() {
@@ -20,7 +20,7 @@ export default function App() {
             backgroundColor="transparent"
             translucent
           />
-          {fontsLoaded ? <Players /> : <Loading />}
+          {fontsLoaded ? <Routes /> : <Loading />}
         </SafeAreaView>
       </ThemeProvider>
     </SafeAreaProvider>
